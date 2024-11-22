@@ -1,0 +1,272 @@
+[
+  {
+    "_id": "1",
+    "brand_name": "Pickaboo",
+    "rating": 4.5,
+    "description": "One of the leading e-commerce platforms in Bangladesh for electronics, gadgets, and accessories.",
+    "brand_logo": "https://i0.wp.com/mnabd.com/wp-content/uploads/2018/05/pickaboo.png?fit=700%2C470&ssl=1",
+    "coupons": [
+      {
+        "coupon_code": "PICKABOO10",
+        "description": "Flat 10% off on electronics.",
+        "expiry_date": "2024-12-15",
+        "condition": "Minimum purchase of BDT 5000 required.",
+        "coupon_type": "Percentage"
+      },
+      {
+        "coupon_code": "PICKFREE",
+        "description": "Free delivery on mobile phone purchases.",
+        "expiry_date": "2024-12-31",
+        "condition": "Applies to all models.",
+        "coupon_type": "Free Shipping"
+      }
+    ],
+    "shop_link": "https://www.pickaboo.com",
+    "category": "E-commerce",
+    "isSaleOn": true
+  },
+  {
+    "_id": "2",
+    "brand_name": "Bagdoom",
+    "rating": 4.2,
+    "description": "A stylish e-commerce shop for fashion, lifestyle, and everyday items in Bangladesh.",
+    "brand_logo": "https://www.bagdoom.com/public/uploads/all/XYf3MUYcjpSH4CAUH6jeAPRhHdKuhUE35xamziOZ.png",
+    "coupons": [
+      {
+        "coupon_code": "BAG20",
+        "description": "20% off on fashion products.",
+        "expiry_date": "2024-11-30",
+        "condition": "Minimum purchase of BDT 1500 required.",
+        "coupon_type": "Percentage"
+      },
+      {
+        "coupon_code": "BAGSHIP",
+        "description": "Free shipping on all orders.",
+        "expiry_date": "2024-12-31",
+        "condition": "Limited-time offer.",
+        "coupon_type": "Free Shipping"
+      }
+    ],
+    "shop_link": "https://www.bagdoom.com",
+    "category": "E-commerce",
+    "isSaleOn": true
+  },
+  {
+    "_id": "3",
+    "brand_name": "AjkerDeal",
+    "rating": 4.4,
+    "description": "Bangladesh's online shopping hub for affordable deals and discounts on a wide range of products.",
+    "brand_logo": "http://static.ajkerdeal.com/images/dealdetails/ad-logo.svg",
+    "coupons": [
+      {
+        "coupon_code": "AJKER15",
+        "description": "15% off on household items.",
+        "expiry_date": "2024-11-30",
+        "condition": "Minimum purchase of BDT 2000 required.",
+        "coupon_type": "Percentage"
+      },
+      {
+        "coupon_code": "AJKERSHIP",
+        "description": "Free delivery on orders above BDT 1500.",
+        "expiry_date": "2024-12-10",
+        "condition": "Applicable on all categories.",
+        "coupon_type": "Free Shipping"
+      }
+    ],
+    "shop_link": "https://www.ajkerdeal.com",
+    "category": "E-commerce",
+    "isSaleOn": true
+  },
+  {
+    "_id": "4",
+    "brand_name": "PriyoShop",
+    "rating": 4.6,
+    "description": "Bangladesh's trusted e-commerce store for authentic and quality products.",
+    "brand_logo": "https://priyoshopretail.com/wp-content/uploads/2023/11/priyoshop-logo-transparent-bg-for-white-bg-1.png",
+    "coupons": [
+      {
+        "coupon_code": "PRIYO15",
+        "description": "15% off on health and beauty products.",
+        "expiry_date": "2024-12-20",
+        "condition": "Applicable on orders above BDT 1500.",
+        "coupon_type": "Percentage"
+      },
+      {
+        "coupon_code": "PRIYOFREE",
+        "description": "Free delivery on grocery orders above BDT 2000.",
+        "expiry_date": "2024-11-30",
+        "condition": "Available in select areas.",
+        "coupon_type": "Free Shipping"
+      }
+    ],
+    "shop_link": "https://www.priyoshop.com",
+    "category": "E-commerce",
+    "isSaleOn": true
+  },
+  {
+    "_id": "5",
+    "brand_name": "Bikroy",
+    "rating": 4.5,
+    "description": "Bangladesh's largest online marketplace for buying and selling new and used items.",
+    "brand_logo": "https://tpc.googlesyndication.com/simgad/11949135180133786829",
+    "coupons": [
+      {
+        "coupon_code": "BIKROY50",
+        "description": "Flat BDT 50 off on premium ad services.",
+        "expiry_date": "2024-12-15",
+        "condition": "Valid for all users.",
+        "coupon_type": "Flat Discount"
+      }
+    ],
+    "shop_link": "https://www.bikroy.com",
+    "category": "E-commerce",
+    "isSaleOn": true
+  },
+  {
+    "_id": "6",
+    "brand_name": "Evaly",
+    "rating": 4.3,
+    "description": "A versatile e-commerce platform offering a wide variety of products with attractive deals.",
+    "brand_logo": "https://media.e-valy.com/cms/products/images/6d4ddee9-51b7-422c-978b-7b7dbe76a4c0?h=250&w=250",
+    "coupons": [
+      {
+        "coupon_code": "EVALYAPP",
+        "description": "Extra 10% off on app orders.",
+        "expiry_date": "2024-12-15",
+        "condition": "Applicable for first app users only.",
+        "coupon_type": "Percentage"
+      },
+      {
+        "coupon_code": "EVALY300",
+        "description": "Save BDT 300 on orders above BDT 5000.",
+        "expiry_date": "2024-12-31",
+        "condition": "Valid for all products.",
+        "coupon_type": "Flat Discount"
+      }
+    ],
+    "shop_link": "https://www.evaly.com.bd",
+    "category": "E-commerce",
+    "isSaleOn": true
+  },
+  {
+    "_id": "7",
+    "brand_name": "Daraz Bangladesh",
+    "rating": 4.7,
+    "description": "The largest online shopping platform in Bangladesh offering a wide range of products including electronics, fashion, and more.",
+    "brand_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuknaqXW6rfCejRjaH3kyw2OtubWwx0bI28g&s",
+    "coupons": [
+      {
+        "coupon_code": "DARAZ10",
+        "description": "Get 10% off on your first purchase.",
+        "expiry_date": "2024-12-31",
+        "condition": "New customers only.",
+        "coupon_type": "Percentage"
+      },
+      {
+        "coupon_code": "DARAZ500",
+        "description": "Save up to BDT 500 on electronics.",
+        "expiry_date": "2024-11-30",
+        "condition": "Minimum purchase of BDT 3000 required.",
+        "coupon_type": "Flat Discount"
+      }
+    ],
+    "shop_link": "https://www.daraz.com.bd",
+    "category": "E-commerce",
+    "isSaleOn": true
+  },
+  {
+    "_id": "8",
+    "brand_name": "Chaldal",
+    "rating": 4.5,
+    "description": "Bangladesh's online grocery store, offering a range of daily essentials at competitive prices.",
+    "brand_logo": "https://chaldalvideos.blob.core.windows.net/chaldal/Chaldal-biniyog-wide-banner.jpg",
+    "coupons": [
+      {
+        "coupon_code": "CHALFREE",
+        "description": "Free delivery on orders above BDT 1500.",
+        "expiry_date": "2024-11-25",
+        "condition": "Available in Dhaka only.",
+        "coupon_type": "Free Shipping"
+      }
+    ],
+    "shop_link": "https://www.chaldal.com",
+    "category": "E-commerce",
+    "isSaleOn": true
+  },
+  {
+    "_id": "9",
+    "brand_name": "Othoba",
+    "rating": 4.3,
+    "description": "One of the most reliable e-commerce websites in Bangladesh, offering products across a variety of categories.",
+    "brand_logo": "https://www.othoba.com/Themes/Othoba/Content/images/logoOthoba.png",
+    "coupons": [
+      {
+        "coupon_code": "OTHO10",
+        "description": "Get 10% off on electronics.",
+        "expiry_date": "2024-12-15",
+        "condition": "Minimum purchase of BDT 2000 required.",
+        "coupon_type": "Percentage"
+      }
+    ],
+    "shop_link": "https://www.othoba.com",
+    "category": "E-commerce",
+    "isSaleOn": true
+  },
+  {
+    "_id": "10",
+    "brand_name": "ClickBD",
+    "rating": 4.4,
+    "description": "A popular online platform for electronics, mobile phones, laptops, and more.",
+    "brand_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3cpsOJgrRqB-1oPVe34xYNmOBALXWl8z0TQ&s",
+    "coupons": [
+      {
+        "coupon_code": "CLICK20",
+        "description": "20% off on selected electronics.",
+        "expiry_date": "2024-11-30",
+        "condition": "Limited-time offer.",
+        "coupon_type": "Percentage"
+      }
+    ],
+    "shop_link": "https://www.clickbd.com",
+    "category": "E-commerce",
+    "isSaleOn": true
+  },
+  {
+    "_id": "11",
+    "brand_name": "Shwapno",
+    "rating": 4.6,
+    "description": "One of the best e-commerce platforms for grocery and daily essentials in Bangladesh.",
+    "brand_logo": "https://www.shwapno.com/images/shwapno_logo.png",
+    "coupons": [
+      {
+        "coupon_code": "SWAP15",
+        "description": "15% off on your first grocery order.",
+        "expiry_date": "2024-12-20",
+        "condition": "Applies to first-time users only.",
+        "coupon_type": "Percentage"
+      }
+    ],
+    "shop_link": "https://www.shwapno.com",
+    "category": "E-commerce",
+    "isSaleOn": true
+  },
+  {
+    "_id": "12",
+    "brand_name": "Goto",
+    "rating": 4.5,
+    "description": "Online shopping platform offering a range of products with great deals on electronics, gadgets, and more.",
+    "brand_logo": "https://www.goto.com/-/media/images/url/learn-more/content-and-form-two-col-png.png?la=en&h=836&w=1110&hash=439F9549084B28511A586C02C1B01071",
+    "coupons": [
+      {
+        "coupon_code": "GOTO100",
+        "description": "Flat BDT 100 off on orders above BDT 1500.",
+        "expiry_date": "2024-12-15",
+        "condition": "Available on all categories.",
+        "coupon_type": "Flat Discount"
+      }
+    ],
+    "shop_link": "https://www.goto.com.bd",
+    "category": "E-commerce",
+    "isSaleOn": true
+  }
+]
